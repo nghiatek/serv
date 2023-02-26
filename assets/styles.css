@@ -1,0 +1,16 @@
+*,:after,:before {
+    border: 0 solid #d9d9e3;
+    box-sizing: border-box
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    font-family: Söhne,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica Neue,Arial,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    line-height: 1.5;
+    tab-size: 4
+}
+
+body {
+    line-height: inherit;
+    margin: 0
+}

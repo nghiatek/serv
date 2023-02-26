@@ -1,0 +1,9 @@
+.arch/
+themes/
+*.bat
+*.sh
+*.py
+/*.ico
+/*.html
+/*.json
+/*.js
